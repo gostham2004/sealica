@@ -1,0 +1,410 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/iiif/manifest/IR-STAMP-0001",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Persian Stamp Collection"
+    ],
+    "fa": [
+      "مجموعه مهرهای ایرانی"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Stamp ID/Code"
+        ],
+        "fa": [
+          "شماره شناسه/کد مهر"
+        ]
+      },
+      "value": {
+        "en": [
+          "IR-STAMP-0001"
+        ],
+        "fa": [
+          "IR-STAMP-0001"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "General Name"
+        ],
+        "fa": [
+          "نام عمومی مهر"
+        ]
+      },
+      "value": {
+        "en": [
+          "مهر تاجدار شاه سلیمان صفوی"
+        ],
+        "fa": [
+          "مهر تاجدار شاه سلیمان صفوی"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Type of Stamp"
+        ],
+        "fa": [
+          "نوع مهر"
+        ]
+      },
+      "value": {
+        "en": [
+          "مسطح"
+        ],
+        "fa": [
+          "مسطح"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Material"
+        ],
+        "fa": [
+          "جنس"
+        ]
+      },
+      "value": {
+        "en": [
+          "فلز (برنج)"
+        ],
+        "fa": [
+          "فلز (برنج)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Historical Period"
+        ],
+        "fa": [
+          "دوره تاریخی"
+        ]
+      },
+      "value": {
+        "en": [
+          "صفوی"
+        ],
+        "fa": [
+          "صفوی"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Discovery Site/Origin"
+        ],
+        "fa": [
+          "محل کشف/خاستگاه"
+        ]
+      },
+      "value": {
+        "en": [
+          "نامعلوم"
+        ],
+        "fa": [
+          "نامعلوم"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Motifs and Symbols"
+        ],
+        "fa": [
+          "نقوش و نمادها"
+        ]
+      },
+      "value": {
+        "en": [
+          "تصاویر گیاهی"
+        ],
+        "fa": [
+          "تصاویر گیاهی"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Language/Script"
+        ],
+        "fa": [
+          "زبان/خط نوشته‌شده"
+        ]
+      },
+      "value": {
+        "en": [
+          "نستعلیق فارسی"
+        ],
+        "fa": [
+          "نستعلیق فارسی"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Probable Function"
+        ],
+        "fa": [
+          "کاربرد احتمالی"
+        ]
+      },
+      "value": {
+        "en": [
+          "سیاسی"
+        ],
+        "fa": [
+          "سیاسی"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Current Status"
+        ],
+        "fa": [
+          "وضعیت فعلی"
+        ]
+      },
+      "value": {
+        "en": [
+          "نامعلوم"
+        ],
+        "fa": [
+          "نامعلوم"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Exact Dimensions"
+        ],
+        "fa": [
+          "ابعاد دقیق"
+        ]
+      },
+      "value": {
+        "en": [
+          "نامعلوم"
+        ],
+        "fa": [
+          "نامعلوم"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Manufacturing Technique"
+        ],
+        "fa": [
+          "تکنیک ساخت"
+        ]
+      },
+      "value": {
+        "en": [
+          "حکاکی"
+        ],
+        "fa": [
+          "حکاکی"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Image Reference/Number"
+        ],
+        "fa": [
+          "شماره عکس/نمایه تصویری"
+        ]
+      },
+      "value": {
+        "en": [
+          "https://agate20.com/seal-safavid-sultans-ring/"
+        ],
+        "fa": [
+          "https://agate20.com/seal-safavid-sultans-ring/"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Reference Sources"
+        ],
+        "fa": [
+          "منابع ارجاعی"
+        ]
+      },
+      "value": {
+        "en": [
+          "کتاب‌ها، مقالات، گزارش‌های باستان‌شناسی"
+        ],
+        "fa": [
+          "کتاب‌ها، مقالات، گزارش‌های باستان‌شناسی"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Inscription Text"
+        ],
+        "fa": [
+          "متن نوشتاری مهر"
+        ]
+      },
+      "value": {
+        "en": [
+          "انه من سیلمان و انه بسم الله رحمان الرحیم"
+        ],
+        "fa": [
+          "انه من سیلمان و انه بسم الله رحمان الرحیم"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Additional Notes"
+        ],
+        "fa": [
+          "توضیحات تکمیلی"
+        ]
+      },
+      "value": {
+        "en": [
+          "ویژگی‌های خاص، نظریات پژوهشی، نکات مرمتی"
+        ],
+        "fa": [
+          "ویژگی‌های خاص، نظریات پژوهشی، نکات مرمتی"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Copy Right"
+        ],
+        "fa": [
+          "دارنده کپی رایت"
+        ]
+      },
+      "value": {
+        "en": [
+          "نام مجموعه یا شخص دارای کپی رایت"
+        ],
+        "fa": [
+          "نام مجموعه یا شخص دارای کپی رایت"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Citation"
+        ],
+        "fa": [
+          "ارجاع"
+        ]
+      },
+      "value": {
+        "en": [
+          "Thesaurus Sigillorum Iranicorum / گنجینه مهرهای ایراتی"
+        ],
+        "fa": [
+          "Thesaurus Sigillorum Iranicorum / گنجینه مهرهای ایراتی"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://example.org/iiif/canvas/1",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://example.org/iiif/canvas/1/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/iiif/canvas/1/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://agate20.com/wp-content/uploads/2025/02/%D9%85%D9%87%D8%B1-%D8%B4%D8%A7%D9%87-%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86-%DB%8C%DA%A9%D9%85-%D8%B5%D9%81%D9%88%DB%8C-479x350.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://example.org/iiif/canvas/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/iiif/canvas/2",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://example.org/iiif/canvas/2/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/iiif/canvas/2/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://agate20.com/wp-content/uploads/2024/12/6%D8%B4%D9%85%D8%B3-%D8%A7%D9%84%D9%85%D9%85%D8%A7%D9%84%DA%A9-600x350.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://example.org/iiif/canvas/2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/iiif/canvas/3",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://example.org/iiif/canvas/3/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/iiif/canvas/3/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://agate20.com/wp-content/uploads/2024/01/%D8%AA%D8%AD%D9%88%D9%84-%D8%B4%DA%A9%D9%84-%D8%AF%D8%B1-%D9%85%D9%87%D8%B1%D9%87%D8%A7%DB%8C-%D9%85%D8%AA%D8%A3%D8%AE%D8%B1%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C_8.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://example.org/iiif/canvas/3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
