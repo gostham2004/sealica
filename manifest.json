@@ -1,0 +1,410 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/iiif/manifest/stamp001",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Persian Stamp Collection"
+    ],
+    "fa": [
+      "مجموعه مهرهای ایرانی"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Stamp ID/Code"
+        ],
+        "fa": [
+          "شماره شناسه/کد مهر"
+        ]
+      },
+      "value": {
+        "en": [
+          "کد یکتا برای شناسایی مهر (مثلاً IR-STAMP-0001)"
+        ],
+        "fa": [
+          "کد یکتا برای شناسایی مهر (مثلاً IR-STAMP-0001)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "General Name"
+        ],
+        "fa": [
+          "نام عمومی مهر"
+        ]
+      },
+      "value": {
+        "en": [
+          "عنوان کلی (مهر استوانه‌ای، مهر استمپی و غیره)"
+        ],
+        "fa": [
+          "عنوان کلی (مهر استوانه‌ای، مهر استمپی و غیره)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Type of Stamp"
+        ],
+        "fa": [
+          "نوع مهر"
+        ]
+      },
+      "value": {
+        "en": [
+          "مانند استوانه‌ای، مسطح، نگین‌دار"
+        ],
+        "fa": [
+          "مانند استوانه‌ای، مسطح، نگین‌دار"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Material"
+        ],
+        "fa": [
+          "جنس"
+        ]
+      },
+      "value": {
+        "en": [
+          "سنگ، فلز، سفال، چوب و غیره"
+        ],
+        "fa": [
+          "سنگ، فلز، سفال، چوب و غیره"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Historical Period"
+        ],
+        "fa": [
+          "دوره تاریخی"
+        ]
+      },
+      "value": {
+        "en": [
+          "ایلامی، هخامنشی، ساسانی، اسلامی، قاجار..."
+        ],
+        "fa": [
+          "ایلامی، هخامنشی، ساسانی، اسلامی، قاجار..."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Discovery Site/Origin"
+        ],
+        "fa": [
+          "محل کشف/خاستگاه"
+        ]
+      },
+      "value": {
+        "en": [
+          "تپه سیلک، شوش، نهاوند، جیرفت..."
+        ],
+        "fa": [
+          "تپه سیلک، شوش، نهاوند، جیرفت..."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Motifs and Symbols"
+        ],
+        "fa": [
+          "نقوش و نمادها"
+        ]
+      },
+      "value": {
+        "en": [
+          "تصاویر انسانی، حیوانی، گیاهی یا هندسی"
+        ],
+        "fa": [
+          "تصاویر انسانی، حیوانی، گیاهی یا هندسی"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Language/Script"
+        ],
+        "fa": [
+          "زبان/خط نوشته‌شده"
+        ]
+      },
+      "value": {
+        "en": [
+          "خط میخی، پهلوی، فارسی، عربی..."
+        ],
+        "fa": [
+          "خط میخی، پهلوی، فارسی، عربی..."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Probable Function"
+        ],
+        "fa": [
+          "کاربرد احتمالی"
+        ]
+      },
+      "value": {
+        "en": [
+          "اداری، آیینی، تجاری، شخصی..."
+        ],
+        "fa": [
+          "اداری، آیینی، تجاری، شخصی..."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Current Status"
+        ],
+        "fa": [
+          "وضعیت فعلی"
+        ]
+      },
+      "value": {
+        "en": [
+          "محل نگهداری، شرایط فیزیکی، وضعیت مرمت"
+        ],
+        "fa": [
+          "محل نگهداری، شرایط فیزیکی، وضعیت مرمت"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Exact Dimensions"
+        ],
+        "fa": [
+          "ابعاد دقیق"
+        ]
+      },
+      "value": {
+        "en": [
+          "طول، عرض، ارتفاع، قطر"
+        ],
+        "fa": [
+          "طول، عرض، ارتفاع، قطر"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Manufacturing Technique"
+        ],
+        "fa": [
+          "تکنیک ساخت"
+        ]
+      },
+      "value": {
+        "en": [
+          "حکاکی، قالب‌گیری، چاپ دستی"
+        ],
+        "fa": [
+          "حکاکی، قالب‌گیری، چاپ دستی"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Image Reference/Number"
+        ],
+        "fa": [
+          "شماره عکس/نمایه تصویری"
+        ]
+      },
+      "value": {
+        "en": [
+          "لینک یا کد عکس در پایگاه داده یا آرشیو"
+        ],
+        "fa": [
+          "لینک یا کد عکس در پایگاه داده یا آرشیو"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Reference Sources"
+        ],
+        "fa": [
+          "منابع ارجاعی"
+        ]
+      },
+      "value": {
+        "en": [
+          "کتاب‌ها، مقالات، گزارش‌های باستان‌شناسی"
+        ],
+        "fa": [
+          "کتاب‌ها، مقالات، گزارش‌های باستان‌شناسی"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Inscription Text"
+        ],
+        "fa": [
+          "متن نوشتاری مهر"
+        ]
+      },
+      "value": {
+        "en": [
+          "متن درج‌شده روی مهر؛ با ترجمه یا تحلیل احتمالی"
+        ],
+        "fa": [
+          "متن درج‌شده روی مهر؛ با ترجمه یا تحلیل احتمالی"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Additional Notes"
+        ],
+        "fa": [
+          "توضیحات تکمیلی"
+        ]
+      },
+      "value": {
+        "en": [
+          "ویژگی‌های خاص، نظریات پژوهشی، نکات مرمتی"
+        ],
+        "fa": [
+          "ویژگی‌های خاص، نظریات پژوهشی، نکات مرمتی"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Copy Right"
+        ],
+        "fa": [
+          "دارنده کپی رایت"
+        ]
+      },
+      "value": {
+        "en": [
+          "نام مجموعه یا شخص دارای کپی رایت"
+        ],
+        "fa": [
+          "نام مجموعه یا شخص دارای کپی رایت"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Citation"
+        ],
+        "fa": [
+          "ارجاع"
+        ]
+      },
+      "value": {
+        "en": [
+          "Thesaurus Sigillorum Iranicorum / گنجینه مهرهای ایراتی"
+        ],
+        "fa": [
+          "Thesaurus Sigillorum Iranicorum / گنجینه مهرهای ایراتی"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://example.org/iiif/canvas/1",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://example.org/iiif/canvas/1/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/iiif/canvas/1/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://example.org/images/stamp1.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://example.org/iiif/canvas/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/iiif/canvas/2",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://example.org/iiif/canvas/2/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/iiif/canvas/2/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://example.org/images/stamp2.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://example.org/iiif/canvas/2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/iiif/canvas/3",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://example.org/iiif/canvas/3/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/iiif/canvas/3/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://example.org/images/stamp3.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://example.org/iiif/canvas/3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
